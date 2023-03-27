@@ -1,0 +1,99 @@
+Serge
+
+- Chef de projet de l'administration des environnements
+qualif.
+recette
+préproduction
+Formation
+env. dédié à Campus
++ mise en production
+Initiale et changement
+Coordination des MEP
+- Laurent Séa
+Gestion de projets sur la gestion des environnements
+- Organisation
+En étroite collaboration avec les équipes Qualif.
+Cycle
+Planification trimestrielle
+un cycle de MEP bimestriel
+Ou MEP exceptionnelle en cas de loi réglementaire ou synchro partiuclière avec Agirc arco
+Ouverture de l'entité de migration
+= système de SAS
+process automatique
+sur mainframe
+sur Open
+1 passage 1 fois par jour la nuit
+déploiement sur les environnements de validation et recette
+système exceptionnel de montée de niveau
+Patch exceptionnel
+avec un système de feu vert
+- Patch tous les jours
+Mainframe
+C'est la qualif. qui ouvre la porte
+Ils peuvent ne pas l'ouvrir
+Pas de système de contrôle du contenu avec vision vers la qualif.
+Open
+Système d'ouverture via communication par mail (côté CTV)
+- Données
+Mise à dispo d'un outil d'extraction / chatgement de données
+mainframe
+BDD DB2
+avec une surcouche d'abstraction de données
+DIPI
+etude en cours pour un outil éditeur pour extraction/chargement et anonymisation des données
+Le chargement de données ne peut se faire que du haut vers le bas
+Prod => qualif, re7 ou DEV
+Qualif => DEV
+Système de supervision et TdB mis en place
+- RAZ ?
+1 fois par an
+sur les 2 env. Qualif et Recette pour un partenaire donné
+Planning parrtagé à l'avance avec un mode flexible
+en période creuse : fin juillet - mi-août
+Planning sur 3 semaines
+Intègre également les données du monde Open
+Migration technique
+Gère la comm
+gère le suivi de migration et/ou incidents
+Plage d'ouverture et d'accès
+plage d'ouverture
+7h - 19h
+Pas plus large que la plage horaire de prod
+- Processus-méthodo
+- Environnement
+Déploiement automatique
+Mainframe
+Open
+Console outillée
+Outil maison
+Outil de déploiement et de supersivion du déploiement
+Pilotage des versions
+Mainframe
+Open
+Préprod
+utilisé pour faire des tests en masse
+1 appli en prod sur du cloud depuis juin
+Puis augmentation du nb d'appli en prod cloud à venir
+cf. ASNET
+Activités
+Gestion des incidents de prod
+Tests techniques
+Quelques tests en masse en préprod
+DEVOPS / AGile
+Pas trop sur le sujet
+Outil Lotus Notes
+gestion des demandes
+Gestion des incidents sur env. de tests
+Pour les incidents de prod
+ITSM
+footprint
+BMC Software
+Outils
+Mesures
+Reporting
+Pistes d'amélioration
+Ecrire dans le marbre le RAZ des données
+1 fois par an sur la période donnée
+Problèmes identifiés
+Contexte technique
+Chiffres

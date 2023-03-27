@@ -1,0 +1,38 @@
+Noël
+
++ Organisation
+Processus-méthodo
++ Environnement
++ Activités
+Livraison
+AVANT
+Réunion de planification trimestrielle
+avec DMOPM et partenaires
+Répartition des évol. sur les différentes dates de MEP du trimestre à venir
+entre spec, DEV et tests
+MAINTENANT
+Les gros projets transverses se sont multipliés
+Sur la base du VOPAB
+planification en jours
+Dissociation du Build de la maintenance
+Estimation des charges de tests
+MEP
+MEP Tous les deux mois
+Feu vert par DMOPQ 1 semaine avant
+Puis montée en préprod
+Avec volumétrie proche prod
+Puis tests ultimes par DIPI et potentiellement DMOP métier
+Planification des charges de tests
+avec outil Excel
+Engagement de la qualif
+protocole de qualification
+Rédaction des tests
+Précise les P0, P1 et P2
+Peuvent être priorisés en fonction des conditions de tests
+Bilan à la main
++ Outils
++ Mesures
+Pistes d'amélioration
++ Problèmes identifiés
++ Contexte technique
+Chiffres
